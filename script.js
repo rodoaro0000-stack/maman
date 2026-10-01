@@ -8,10 +8,10 @@
   // Dépose tes photos dans /photos et renseigne "src" (ex: 'photos/noel.jpg').
   // Sans photo, un cadre doré élégant s'affiche à la place.
   const MEMORIES = [
-  { src: 'photos/photo-01.jpg', cap: 'Une petite tête posée sur ton épaule' },
-  { src: 'photos/photo-02.jpg', cap: 'Ton sourire, en pleine lumière' },
-  { src: 'photos/photo-03.jpg', cap: 'Simplement toi, simplement belle' },
-  { src: 'photos/photo-04.jpg', cap: 'Là-haut, tout près de toi' },
+  { src: 'photo-01.jpg', cap: 'Une petite tête posée sur ton épaule' },
+  { src: 'photo-02.jpg', cap: 'Ton sourire, en pleine lumière' },
+  { src: 'photo-03.jpg', cap: 'Simplement toi, simplement belle' },
+  { src: 'photo-04.jpg', cap: 'Là-haut, tout près de toi' },
 ];
   const LETTER = `Ma maman,\n\nAujourd'hui, c'est ton anniversaire, et j'avais envie de prendre un moment pour te dire quelque chose que je ne dis peut-être pas assez souvent : merci.\n\nMerci pour ta présence, ta patience, tes conseils, tes encouragements et toutes ces petites choses que tu fais parfois sans même y penser. Tu as une façon unique de rendre les journées plus belles et les moments difficiles un peu plus légers.\n\nJe te souhaite une année remplie de douceur, de beaux souvenirs, de rires, de santé et de tout ce qui peut te rendre heureuse. Tu mérites de recevoir autant de bonheur que tu en donnes autour de toi.\n\nJoyeux anniversaire Maman. Profite de cette journée, elle est à ton image : précieuse et pleine de lumière.\n\nJe t'aime très fort. 🤍`;
 
